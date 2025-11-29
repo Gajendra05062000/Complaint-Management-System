@@ -90,7 +90,7 @@ a {
         </div>
 
         <div class="col-md-3 text-center">
-            <a data-toggle="modal" data-target="#exampleModalCenter">
+            <a href="" data-toggle="modal" data-target="#exampleModalCenter">
             <div class="card">
                 <div class="card-body">
                     <i class="fas fa-sign-out-alt fa-5x text-danger"></i>
